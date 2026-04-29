@@ -1,0 +1,34 @@
+# Zero Team Engine
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+configs/*.json
+!configs/example.json
+credentials.json
+*.local
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite

@@ -1,0 +1,10 @@
+# Zero Team Engine Files
+
+此目录包含 Zero Team Engine 的主要文件：
+- control-panel.html - 游戏风格控制面板
+- README.md - 项目说明
+- LICENSE - MIT 许可证
+- .gitignore - Git 忽略配置
+
+运行方式：
+直接用浏览器打开 control-panel.html
